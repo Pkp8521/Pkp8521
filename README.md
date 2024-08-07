@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar Pandey</h1>
 <h3 align="center">A passionate Data Analysis from India</h3>
+<img align="right" alt="coding" width="400"scr="C:\Users\asus\OneDrive\Desktop\photo\thoughtworks-gif_dribbble.gif">
 
 - 🌱 I’m currently learning **data scientist**
 
