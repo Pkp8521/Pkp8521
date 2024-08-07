@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar Pandey</h1>
 <h3 align="center">A passionate Data Analysis from India</h3>
-<img align="right" alt="coding" width="400"scr="C:\Users\asus\OneDrive\Desktop\photo\thoughtworks-gif_dribbble.gif">
 
+<img align="right" alt="coding" width="400"scr="![image](https://github.com/user-attachments/assets/3434fbae-03f4-4169-8f8e-3fb07ce5aa8c) ">
+ 
 - 🌱 I’m currently learning **data scientist**
 
 - 💬 Ask me about **MySQL Python Power BI Excel**
 
 - 📫 How to reach me **Omk821541@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/asus/Downloads/PriyanshuKumarPandey-DataAnalyst-kX6Y.pdf](file:///C:/Users/asus/Downloads/PriyanshuKumarPandey-DataAnalyst-kX6Y.pdf)
 
-- ⚡ Fun fact **I Think I am Very Funny**
+- ⚡ Fun fact ** I am Very Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
