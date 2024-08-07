@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar Pandey</h1>
 <h3 align="center">A passionate Data Analysis from India</h3>
 
-<img align="right" alt="coding" width="400"scr="![image](https://github.com/user-attachments/assets/3434fbae-03f4-4169-8f8e-3fb07ce5aa8c) ">
+![image](https://github.com/user-attachments/assets/3434fbae-03f4-4169-8f8e-3fb07ce5aa8c)
  
 - 🌱 I’m currently learning **data scientist**
 
